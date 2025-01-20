@@ -14,17 +14,17 @@ class Musicscreen extends StatelessWidget {
     ),
     MusicTrack(
       imagePath: 'assets/images/forest.jpg',
-      trackTitle: 'Song 1',
+      trackTitle: 'Song 2',
       url: 'assets/music/the-beat-of-nature-122841.mp3',
     ),
     MusicTrack(
       imagePath: 'assets/images/rain.jpg',
-      trackTitle: 'Song 1',
+      trackTitle: 'Song 3',
       url: 'assets/music/calming-rain-257596.mp3',
     ),
     MusicTrack(
       imagePath: 'assets/images/Nature.jpg',
-      trackTitle: 'Song 1',
+      trackTitle: 'Song 4',
       url: 'assets/music/calm-nature-sounds-196258.mp3',
     ),
   ];
