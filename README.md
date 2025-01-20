@@ -1,49 +1,53 @@
-# Peacify
+# 🌸 **Peacify** 🌸
 
-## Overview
-This mobile app is designed to help users analyze and manage their mental health effectively. The app integrates modern technologies to provide personalized insights, remedies, and support through interactive features.
+## 📜 **Overview**
+Peacify is a mobile app designed to help users analyze and manage their mental health effectively. The app integrates modern technologies to provide personalized insights, remedies, and support through interactive features.
 
-## Features
+---
 
-1. *Login and Signup*
-   - User authentication is implemented using Firebase, ensuring secure and seamless access.
+## 🌟 **Features**
 
-2. *Mental Health Analysis*
-   - Two ML models are integrated via Flask APIs to analyze mental health:
-     - *Depression Analysis*: Identifies the level of depression (Severe, Moderate, Mild, or None).
-     - *Stress Level Assessment*: Provides a stress score out of 20.
+1. **🛂 Login and Signup**
+   - User authentication is implemented using **Firebase**, ensuring secure and seamless access.
 
-3. *AI Chatbot*
+2. **🧠 Mental Health Analysis**
+   - Two ML models are integrated via **Flask APIs** to analyze mental health:
+     - **Depression Analysis**: Identifies the level of depression (Severe, Moderate, Mild, or None).
+     - **Stress Level Assessment**: Provides a stress score out of 20.
+
+3. **🤖 AI Chatbot**
    - An intelligent chatbot for:
      - Engaging in conversations.
      - Suggesting remedies for various mental health problems.
 
-4. *Helpline Page*
-   - Access national helpline contacts.
+4. **📞 Helpline Page**
+   - Access national helpline contacts for immediate support.
 
-5. *Psychiatrists List*
+5. **🧑‍⚕️ Psychiatrists List**
    - View a curated list of psychiatrists for consultation.
 
-6. *Diet Plans*
+6. **🥗 Diet Plans**
    - Tailored diet plans for managing depression, anxiety, and stress.
 
-7. *Calm Music*
+7. **🎶 Calm Music**
    - A collection of calming music to help users relax and de-stress.
 
-## Tech Stack
+---
 
-### Frontend
-- *Flutter*
-- *Dart*
-- *BLoC* (Business Logic Component)
+## 🛠️ **Tech Stack**
 
-### Backend
-- *Python*
-- *Flask*
-- *Firebase* (Authentication & Data Storage)
+### **Frontend**
+- **Flutter**  
+- **Dart**  
+- **BLoC** (Business Logic Component)
 
-### Machine Learning
-- *Libraries*:
+### **Backend**
+- **Python**  
+- **Flask**  
+- **Firebase** (Authentication & Data Storage)
+
+### **Machine Learning**
+- **Libraries**:
   - Pandas
   - NumPy
   - Scikit-learn
@@ -52,16 +56,19 @@ This mobile app is designed to help users analyze and manage their mental health
   - TensorFlow
   - Keras
 
-### Tools & Platforms
-- *Postman* (API Testing)
-- *Render* (Deployment)
+### **Tools & Platforms**
+- **Postman** (API Testing)
+- **Render** (Deployment)
 
-## Installation
+---
 
-1. Clone the repository:
-   bash
+## ⚙️ **Installation**
+
+1. **Clone the repository:**
+   ```bash
    git clone https://github.com/DarkStar1709/Team-Glitch.git
    cd Team-Glitch
+
    
 
 2. Install dependencies:
@@ -89,10 +96,10 @@ This mobile app is designed to help users analyze and manage their mental health
    flutter run
    
 
-## Deployment
+## 🚀Deployment
 - Backend services are deployed on *Render* for reliable and scalable performance.
 
-## Screenshots
+## 🖼️ Screenshots
 ![onb](https://github.com/user-attachments/assets/022f9f75-50ad-40d2-b2f2-309ed14fc3a5)
 ![si](https://github.com/user-attachments/assets/60e0a768-48d8-42cf-b49b-79c7936b7e56)
 ![s](https://github.com/user-attachments/assets/17b84ceb-b67d-4cca-9dfb-33320aff4ace)
@@ -104,7 +111,7 @@ This mobile app is designed to help users analyze and manage their mental health
 ![hel](https://github.com/user-attachments/assets/2b1e5468-0232-449a-9992-678d9378f1ca)
 ![rem](https://github.com/user-attachments/assets/7f841884-a4ca-4235-9251-971f7358b768)
 ![doc](https://github.com/user-attachments/assets/5225f6d5-1a1d-4d3f-a516-be0cec31753f)
-![mus](https://github.com/user-attachments/assets/44183ee7-e4c3-406c-847e-bdb693fd75a6)
+![moosic](https://github.com/user-attachments/assets/fb4fb7cf-5bfa-438b-9cfb-f3f2e53e678c)
 
 ## 📧 Contact
 For any inquiries or feedback, feel free to reach out:
