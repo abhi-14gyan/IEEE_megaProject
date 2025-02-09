@@ -116,6 +116,6 @@ Peacify is a mobile app designed to help users analyze and manage their mental h
 ## 📧 Contact
 For any inquiries or feedback, feel free to reach out:
 - *Name:* Team Glitch
-- *Members:* Abhigyan Srivastava,Arnav Kumar, Yash Agarwal
+- *Members:* Abhigyan Srivastava(Team Lead),Arnav Kumar, Yash Agarwal
 
 ---
